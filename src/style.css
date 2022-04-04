@@ -1,1 +1,27 @@
-/* styles go here */
+.form-field {
+  display: block;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.special-input {
+  margin-bottom: 10px;
+}
+
+.last-input {
+  margin-bottom: unset;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.radio {
+  display: inline;
+}
+
+.cars {
+  overflow-y: hidden;
+}
