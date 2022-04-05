@@ -1,27 +1,15 @@
-.form-field {
-  display: block;
-}
-
-input {
-  margin-bottom: 10px;
-}
-
-.special-input {
-  margin-bottom: 10px;
-}
-
-.last-input {
-  margin-bottom: unset;
-}
-
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-.radio {
-  display: inline;
+.input {
+  margin-bottom: 10px;
 }
 
-.cars {
-  overflow-y: hidden;
+.lastInput {
+  margin-top: 10px;
+}
+
+.specialInput {
+  margin-top: 12px;
 }
